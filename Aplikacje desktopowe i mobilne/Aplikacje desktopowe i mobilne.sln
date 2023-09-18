@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32510.428
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstProject", "FirstProject\FirstProject.csproj", "{00FD0DC4-9613-4F38-AEEE-26AC1DB93BB4}"
 EndProject
@@ -29,6 +29,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Baza danych", "06. Baza
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolApp", "SchoolApp\SchoolApp.csproj", "{C39941D1-21D6-42F1-AFC7-66C297F097ED}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Egzamin", "Egzamin", "{C504C070-B8B0-47E8-A10A-A6204913EFAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2023 styczeń 1", "2023 styczeń 1", "{E657C5BE-672D-468C-9BDA-370905733C25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{C2AB3409-425E-4858-913E-458C37B04BE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +60,10 @@ Global
 		{C39941D1-21D6-42F1-AFC7-66C297F097ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C39941D1-21D6-42F1-AFC7-66C297F097ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C39941D1-21D6-42F1-AFC7-66C297F097ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2AB3409-425E-4858-913E-458C37B04BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AB3409-425E-4858-913E-458C37B04BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AB3409-425E-4858-913E-458C37B04BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AB3409-425E-4858-913E-458C37B04BE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -71,6 +81,8 @@ Global
 		{0E308C3C-4B8C-4E16-8BE5-064CCFA91797} = {4F7B8DB7-B06A-47E3-BA60-251C7B6A455D}
 		{30B0D668-B9F9-447B-82E3-5741C7759B09} = {C29530D3-4AFB-4BE4-89B5-7E8E241A62A4}
 		{C39941D1-21D6-42F1-AFC7-66C297F097ED} = {30B0D668-B9F9-447B-82E3-5741C7759B09}
+		{E657C5BE-672D-468C-9BDA-370905733C25} = {C504C070-B8B0-47E8-A10A-A6204913EFAA}
+		{C2AB3409-425E-4858-913E-458C37B04BE8} = {E657C5BE-672D-468C-9BDA-370905733C25}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E2DA32F-0FC6-4252-9FC0-CD664838E829}
